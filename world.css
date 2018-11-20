@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+     left:  200px;
+}
+
+button{
+    color: blue;
+}
+
+#controls{
+   background-color: red;
+   margin-right: 0;
+   width: 600px;
+    
+}
+
+#result{
+    background-color: #1111;
+}
+
+ 
